@@ -7,3 +7,4 @@
 
     gtag('config', 'G-RC1KXKC4X3');
 </script>
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="C/LStEirEBzm20IvYLIFEg" async></script>

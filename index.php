@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="7C20lBKNDSrvnYJvOeOmOvezrA2Vv3MmEqGgoLuNM0A" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Launch Guides - Complete Graphics Requirements for Digital Products</title>
     <meta name="description" content="Comprehensive guides for graphics requirements when launching web apps, mobile apps, games, websites, and digital marketplaces.">
